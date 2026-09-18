@@ -1,31 +1,21 @@
-Hi 👋 My name is Maria Eduarda
+Olá 👋 eu sou a Maria Eduarda!!
 ==============================
 
-Estudante de Desenvolvimento de Sistemas
-----------------------------------------
+Estudante de Sistemas da Informação.
+------------------------------------
 
-Cursando desenvolvimento de sistemas pela associação Despertar, estou no segundo semestre do curso de um ano e meio e desde então venho aprendendo a codificar , e algumas linguagens de programação.
+Sou uma aprendiz da área da tecnologia e iniciei minha trajetória nesse universo há 3 anos. Desde então eu venho aprendendo e aprimorando meus conhecimentos em lógica e linguagem de programação, além de algumas ferramentas tecnológicas.
 
-* 🌍  I'm based in São Paulo
-* ✉️  You can contact me at [maria.santos.fumcad@despertar.org.br](mailto:maria.santos.fumcad@despertar.org.br)
-* 🧠  I'm learning HTML , javaScript e CSS
-* ⚡  Amo comer bolo haha
+* 🌍  Estou localizada em São Paulo.
+* 🧠  Estou aprendendo no momento: Python, SQL.
+* ✉️  Você pode entrar em contato comigo pelo e-mail: [dudacds82@gmail.com](mailto:dudacds82@gmail.com)
+* ⚡  Além do universo da tecnologia, eu gosto de fazer bolo :)
 
-ProfileMe.dev | Create an amazing GitHub profile in minutes
-<!--
-**Dudah82/Dudah82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a>
+</p>
 
-Hi 👋 My name is Maria Eduarda
-==============================
+### Socials
 
-Estudante de Desenvolvimento de Sistemas
-----------------------------------------
-
-Cursando desenvolvimento de sistemas pela associação Despertar, estou no segundo semestre do curso de um ano e meio e desde então venho aprendendo a codificar , e algumas linguagens de programação.
-
-* 🌍  I'm based in São Paulo
-* ✉️  You can contact me at [maria.santos.fumcad@despertar.org.br](mailto:maria.santos.fumcad@despertar.org.br)
-* 🧠  I'm learning HTML , javaScript e CSS
-* ⚡  Amo comer bolo haha
-
-ProfileMe.dev | Create an amazing GitHub profile in minutes
+<p align="left"> <a href="https://www.linkedin.com/in/maria-eduarda-chaves-dos-santos" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
